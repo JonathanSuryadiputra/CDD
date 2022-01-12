@@ -9,7 +9,7 @@ public class Buffer {
     Semaphore items = new Semaphore(0);
     Semaphore spaces = new Semaphore(maxBufferSize);
     LinkedList<Event> buffer = new LinkedList<Event>();
-    int numOfProducers = 0;
+    int numInBuffer = 0;
 
     public Buffer() { }
 
@@ -27,8 +27,8 @@ public class Buffer {
         items.acquire();
         mutex.acquire();
         Event event = buffer.removeLast();
-        event.process();
         mutex.release();
         spaces.release();
+        event.process();
     }
 }

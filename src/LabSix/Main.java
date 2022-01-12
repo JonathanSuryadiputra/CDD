@@ -15,9 +15,8 @@ import java.util.concurrent.Executors;
  * @longDescription
  */
 public class Main {
-    
-      // Maximum number of threads in thread pool
-    static final int MAX_T = 7;
+    // Maximum number of threads in thread pool
+    static final int MAX_T = 8;
   
     public static void main(String[] args)
     {
@@ -30,6 +29,7 @@ public class Main {
         Runnable r5 = new Consumer(queue);
         Runnable r6 = new Consumer(queue);
         Runnable r7 = new Consumer(queue);
+        Runnable r8 = new Consumer(queue);
           
         // creates a thread pool with MAX_T no. of 
         // threads as the fixed pool size(Step 2)
@@ -43,8 +43,10 @@ public class Main {
         pool.execute(r5);
         pool.execute(r6);
         pool.execute(r7);
-        //pool.execute(r8);
-          
+        pool.execute(r8);
+
+        //System.exit(0);
+
         // pool shutdown ( Step 4)
         pool.shutdown();
     }
