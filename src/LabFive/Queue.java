@@ -7,10 +7,6 @@ package LabFive;
 
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author joe
- */
 class Queue {
     int leaders = 0;
     int followers = 0;

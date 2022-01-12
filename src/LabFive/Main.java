@@ -11,11 +11,11 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
+ * This lab demonstrates the leader and follower problem as well as its solution.
+ *
  * @author              Jonathan Suryadiputra
  * @version             1.0
  * @since               2021-11-1
- * @shortDescription
- * @longDescription
  */
 public class Main {
     

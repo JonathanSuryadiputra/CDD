@@ -6,8 +6,12 @@
 package LabTwo;
 
 /**
+ * This is a lab to study the different types of locks to prevent race condition.
+ * It outlines 3 different types of locks to prevent race condition, namely Atomic Variables, Mutex Locks, as well as the 'synchronized' keyword built in Java. The task is to fix the race condition found in the raw code provided.
  *
- * @author joe
+ * @author  Jonathan Suryadiputra
+ * @version 1.0
+ * @since   2021-10-11
  */
 class IntegerObj {
     int value;

@@ -8,11 +8,12 @@ package LabThree;
 import java.util.concurrent.Semaphore;
 
 /**
+ * This is a lab to study the implementation of Semaphores as a synchronisation tool.
+ * This lab sheet contains code that implements a Barrier class in multiple threads to synchronise the execution of the threads. The Barrier is a reusable barrier implemented using only Semaphores.
+ *
  * @author              Jonathan Suryadiputra
  * @version             1.0
  * @since               2021-10-18
- * @shortDescription    This is a lab to study the implementation of Semaphores as a synchronisation tool.
- * @longDescription     This lab sheet contains code that implements a Barrier class in multiple threads to synchronise the execution of the threads. The Barrier is a reusable barrier implemented using only Semaphores.
  */
 public class Barrier implements Runnable {
     private int totalThreads;

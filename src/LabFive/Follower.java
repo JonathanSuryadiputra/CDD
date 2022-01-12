@@ -7,10 +7,6 @@ package LabFive;
 
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author joe
- */
 public class Follower implements Runnable {
     private String name;
     private Queue queue;

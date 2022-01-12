@@ -4,11 +4,11 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
+ * This lab demonstrates the dining philosophers problem as well as its solution.
+ *
  * @author              Jonathan Suryadiputra
  * @version             1.0
  * @since               2021-11-8
- * @shortDescription
- * @longDescription
  */
 
 public class Main {
