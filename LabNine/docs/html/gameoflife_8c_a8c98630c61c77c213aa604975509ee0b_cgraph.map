@@ -1,0 +1,5 @@
+<map id="game" name="game">
+<area shape="rect" id="node1" title="Main game function." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$gameoflife_8c.html#aa90bcf9a11b24a504e319b7c11e9813d" title="Kill or birth a cell function." alt="" coords="108,5,168,32"/>
+<area shape="rect" id="node3" href="$gameoflife_8c.html#afe8a5fcd79f82bdbb423635aef79059c" title="Show current state of grid after evolving function." alt="" coords="111,56,165,83"/>
+</map>

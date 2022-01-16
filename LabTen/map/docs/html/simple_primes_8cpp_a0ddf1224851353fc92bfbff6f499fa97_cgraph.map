@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function of the code." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node2" href="$simple_primes_8cpp.html#a463f061ce898cb681d7c7c1ef432c5ab" title="Function that makes repeated calls to prime_number function." alt="" coords="104,5,253,32"/>
+<area shape="rect" id="node3" href="$simple_primes_8cpp.html#a95304a3087d3eb0c4055d1b2b5327e67" title="Checks if the number is a prime in parallel fashion." alt="" coords="301,5,405,32"/>
+</map>

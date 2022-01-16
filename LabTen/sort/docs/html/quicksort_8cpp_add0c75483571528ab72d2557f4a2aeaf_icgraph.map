@@ -1,0 +1,5 @@
+<map id="partition" name="partition">
+<area shape="rect" id="node1" title="Function to partition the list that is to be sorted." alt="" coords="227,29,295,56"/>
+<area shape="rect" id="node2" href="$quicksort_8cpp.html#aae2561911aebe6763a11df2e104b885a" title="Function to quicksort each partitions available of the list to be sorted." alt="" coords="104,29,179,56"/>
+<area shape="rect" id="node3" href="$quicksort_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function of the code." alt="" coords="5,29,56,56"/>
+</map>

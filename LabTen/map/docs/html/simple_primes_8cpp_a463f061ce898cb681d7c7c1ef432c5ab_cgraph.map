@@ -1,0 +1,4 @@
+<map id="prime_number_sweep" name="prime_number_sweep">
+<area shape="rect" id="node1" title="Function that makes repeated calls to prime_number function." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node2" href="$simple_primes_8cpp.html#a95304a3087d3eb0c4055d1b2b5327e67" title="Checks if the number is a prime in parallel fashion." alt="" coords="203,5,307,32"/>
+</map>

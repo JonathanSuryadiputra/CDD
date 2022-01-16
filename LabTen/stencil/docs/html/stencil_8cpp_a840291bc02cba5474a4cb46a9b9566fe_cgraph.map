@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function of the code." alt="" coords="5,31,56,57"/>
+<area shape="rect" id="node2" href="$stencil_8cpp.html#a6d6a4c1769d6dd5c00d3c0fb296988fa" title="Function to get new total value." alt="" coords="104,5,203,32"/>
+<area shape="rect" id="node3" href="$stencil_8cpp.html#a37439b563a5dae2d097c1f8ac30d17c5" title="Stencil function." alt="" coords="123,56,183,83"/>
+<area shape="rect" id="node4" href="$stencil_8cpp.html#a16cd13f0a990612823638d179af32bdb" title="Function to calculate the neighbours of the vector list." alt="" coords="251,56,363,83"/>
+</map>
